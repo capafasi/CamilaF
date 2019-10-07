@@ -1,0 +1,29 @@
+body{
+  font-family: Josefin Sans;
+  color: #011126;
+  background-color: #DDDDDD;
+}
+
+.bg-blue a {
+  color: #FFFFFF;
+}
+.bg-blue{
+  background-color: #29a5bb;
+  color: #FFFFFF;
+}
+.navbar p {
+  font-family: Mansalva;
+  font-size: 50px;
+}
+.nav-link{
+  font-size: 18px;
+  font-weight: bold;
+}
+.text-blue{
+  color: #011126;
+}
+ hr{
+   height:10px;
+   background-color: #29a5bb;
+   width: 50%;
+ }
