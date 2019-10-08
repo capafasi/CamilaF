@@ -4,6 +4,16 @@ body{
   background-color: #DDDDDD;
 }
 
+.hero{
+  background-image: url(../img/yo5.png);
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  width: 99%;
+  height: 600px;
+  margin-top: 20px;
+  padding-top: 50px;
+}
 .bg-blue a {
   color: #FFFFFF;
 }
@@ -12,8 +22,8 @@ body{
   color: #FFFFFF;
 }
 .navbar p {
-  font-family: Mansalva;
-  font-size: 50px;
+  font-family: Satisfy;
+  font-size: 40px;
 }
 .nav-link{
   font-size: 18px;
@@ -26,4 +36,22 @@ body{
    height:10px;
    background-color: #29a5bb;
    width: 50%;
+   margin-top:40px;
  }
+ .container img{
+   width: 100%;
+ }
+
+ .text-celeste {
+   color: #011126;
+   ;
+ }
+.container p{
+  padding-left: 15px;
+  font-style: italic;
+}
+.container h1{
+  padding-top: 40px;
+  margin-top: 40px;
+
+}
