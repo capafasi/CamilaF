@@ -7,7 +7,6 @@ body{
 .hero{
   background-image: url(../img/yo5.png);
   background-repeat: no-repeat;
-
   background-size: cover;
   width: 99%;
   height: 600px;
@@ -23,7 +22,7 @@ body{
 }
 .navbar p {
   font-family: Satisfy;
-  font-size: 40px;
+  font-size: 50px;
 }
 .nav-link{
   font-size: 18px;
@@ -41,17 +40,28 @@ body{
  .container img{
    width: 100%;
  }
+ .container p {
+   font-size: 20px;
+   text-align: justify;
 
+ }
  .text-celeste {
    color: #011126;
    ;
  }
-.container p{
+.frase p{
   padding-left: 15px;
   font-style: italic;
+  font-size: 40px;
 }
 .container h1{
   padding-top: 40px;
   margin-top: 40px;
 
+}
+
+.navbar-brand p{
+  font-size: 40px;
+  text-align: justify;
+  text-decoration: underline;
 }
