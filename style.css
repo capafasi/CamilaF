@@ -34,8 +34,8 @@ body{
  hr{
    height:10px;
    background-color: #29a5bb;
-   width: 50%;
-   margin-top:40px;
+   width: 100%;
+   margin-top:20px;
  }
  .container img{
    width: 100%;
@@ -63,5 +63,8 @@ body{
 .navbar-brand p{
   font-size: 40px;
   text-align: justify;
-  text-decoration: underline;
+}
+
+.bg-azul{
+  background-color: #011126;
 }
